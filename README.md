@@ -5,8 +5,9 @@
 ## 🚀 Featured Projects
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| [Real-time Object Detection](link) | YOLOv8-based detection system | PyTorch, FastAPI, Docker | ✅ Production |
-| [Customer Churn Prediction](link) | ML pipeline with MLflow | Scikit-learn, MLflow, Airflow | 🔧 Maintained |
+| [BinSense AI - Automated Bin Item Verification System](https://github.com/boruahbhaskar/binsenseai-ml) | YOLOv8-based detection system | PyTorch, FastAPI, Docker | ✅ Production |
+| [AI-Assisted Learning for NVIDIA SDKs and Toolkits](https://github.com/boruahbhaskar/machinelearning/tree/main/Problem-01-NVIDIA-Bhaskar-Boruah) | ML pipeline with MLflow | Scikit-learn, MLflow, Airflow | 🔧 Maintained |
+| [Graph Analysis using Machine Learning for Clustering Ego Graphs](https://github.com/boruahbhaskar/machinelearning/blob/main/Bhaskar_Boruah_graphML_Mini_Project.ipynb) | ML pipeline with MLflow | Scikit-learn, MLflow, Airflow | 🔧 Maintained |
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=boruahbhaskar&show_icons=true&theme=radical)
