@@ -5,10 +5,13 @@
 ## 🚀 Featured Projects
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
+| [Ask My Docs](https://github.com/boruahbhaskar/ask-my-docs) | Agentic RAG system with PII masking and MCP server| LangGraph, ChromaDB, FastAPI | 🚀 Active |
 | [RayML](https://github.com/boruahbhaskar/rayscale-ml) | Distributed ML training and serving | Ray, PyTorch, FastAPI | 🚀 Active |
 | [BinSense AI - Automated Bin Item Verification System](https://github.com/boruahbhaskar/binsenseai-ml) | YOLOv8-based detection system | PyTorch, FastAPI, Docker | ✅ Production |
 | [AI-Assisted Learning for NVIDIA SDKs and Toolkits](https://github.com/boruahbhaskar/machinelearning/tree/main/Problem-01-NVIDIA-Bhaskar-Boruah) | ML pipeline with MLflow | Scikit-learn, MLflow, Airflow | 🔧 Maintained |
 | [Graph Analysis using Machine Learning for Clustering Ego Graphs](https://github.com/boruahbhaskar/machinelearning/blob/main/Bhaskar_Boruah_graphML_Mini_Project.ipynb) | ML pipeline with MLflow | Scikit-learn, MLflow, Airflow | 🔧 Maintained |
+
+
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=boruahbhaskar&show_icons=true&theme=radical)
